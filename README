@@ -1,0 +1,6 @@
+This is a snake game which starts off pretty slow. But every fifth food spawn is a big spawn which will increase the speed of the snake when eaten. But the big food only stays on the map for a certain amount of time and after that is replaced by a new, small spawn.
+The benefit of a faster snake is that you get more points for each food eaten.
+
+Control the snake with the arrow keys.
+Press ESCAPE to quit your current game and return to the menu.
+Press 'P' to pause the game.
